@@ -18,7 +18,7 @@ export default {
   },
 
   generate: {
-    dir: '../moredoc/dist',
+    dir: '/data/project/web',
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -70,7 +70,7 @@ export default {
     proxy: true,
   },
   server: {
-    port: 3000, // default: 3000
+    port: 80, // default: 3000
     host: '0.0.0.0', // default: localhost
   },
   proxy: {
