@@ -1,12 +1,10 @@
-# moredoc-web
+# WenCuWeb
 
-魔豆文库前端代码仓库
+文促WEB端代码仓库
 
-## 魔豆文库后端
+## 文促后端
 
-- Github - https://github.com/mnt-ltd/moredoc
-- Gitee - https://gitee.com/mnt-ltd/moredoc
-- MNT.Ltd - https://git.mnt.ltd/mnt-ltd/moredoc
+ - https://github.com/avehub/wencu
 
 ## 二次开发
 
